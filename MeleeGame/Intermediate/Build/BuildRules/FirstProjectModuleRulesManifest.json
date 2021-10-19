@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\MeleGame\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"D:\\MeleGame\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProject.Target.cs",
+		"D:\\MeleGame\\LearnCPPForUnrealEngineUnit2\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
